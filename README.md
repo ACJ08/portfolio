@@ -2,7 +2,7 @@
 
 A personal portfolio website built with React and TypeScript, showcasing my professional experience, technical projects, skills, and academic background. Designed to communicate a clear professional identity to recruiters and hiring managers in software engineering, AI, data science, and related fields.
 
-**Live Site:** [your-deployed-url-here] <!-- Replace with your actual deployed URL -->
+**Live Site:** https://portfolio.caroljonson.workers.dev <!-- Replace with your actual deployed URL -->
 
 ---
 
