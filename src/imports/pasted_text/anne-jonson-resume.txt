@@ -1,0 +1,679 @@
+Please make the contents accurate based on this:
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{parskip}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue
+}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+
+\begin{document}
+
+%======================
+% HEADER
+%======================
+\begin{center}
+    {\LARGE \textbf{Anne Carol G. Jonson}}\\
+    Computer Science Student (Data Science Specialization)\\
+    +63 961 463 0401 \,|\, annecaroljonson1108@gmail.com
+\end{center}
+
+\vspace{0.5em}
+
+%======================
+% PROFESSIONAL SUMMARY
+%======================
+\section*{Professional Summary}
+I am a Computer Science student specializing in Data Science at the University of Santo Tomas and an aspiring intern seeking opportunities in software engineering, data science, and full-stack development. I have strong experience leading multidisciplinary teams in hackathons and academic projects involving AI, web systems, mobile applications, and data warehousing. I excel in combining technical development, system design, and documentation with leadership, research, and collaboration skills. My goal is to contribute to impactful, real-world systems while continuing to grow as a software engineer and data professional.
+
+%======================
+% TECHNICAL SKILLS
+%======================
+\section*{Technical Skills}
+
+\textbf{Programming Languages \& Frameworks:} Java, JavaScript, TypeScript, Python, HTML, CSS, React, Node.js, Flutter, Android Studio\\
+\textbf{Databases \& Tools:} MySQL, PostgreSQL, MongoDB, Firebase, Docker, Tableau, GitHub, Vercel\\
+\textbf{Data \& AI:} Pandas, Scikit-learn, PyTorch, HuggingFace Transformers, OpenAI API\\
+\textbf{Design \& Multimedia:} Figma, Adobe Photoshop, Adobe Premiere Pro, Canva, CapCut\\
+\textbf{Productivity Tools:} MS Word, Excel, PowerPoint, Google Workspace\\
+
+%======================
+% SOFT SKILLS
+%======================
+\section*{Soft Skills}
+Collaboration, Leadership, Problem-Solving, Time Management, Adaptability, Communication, Organization, and Empathy
+
+%======================
+% EDUCATION
+%======================
+\section*{Education}
+
+\textbf{University of Santo Tomas}\\
+BS Computer Science (Data Science Specialization) \hfill 2023–Present\\
+\textbf{Languages \& Technologies:} Java, Python, JavaScript, TypeScript, SQL, HTML, CSS, React, Node.js, Flutter, PyTorch, Scikit-learn, Pandas, Firebase, MongoDB, MySQL, PostgreSQL, Docker, Tableau, Git, OpenAI API, HuggingFace Transformers\\
+\textbf{Certifications:}
+Responsive Web Design (freeCodeCamp), Google Analytics for Beginners (Google), Introduction to Neural Networks (Great Learning), Introduction to AI (Great Learning), Python (DataCamp), Canva for Graphic Design (DICT), Basic JavaScript (DICT)
+
+\vspace{1em}
+
+\textbf{Science, Technology, Engineering, and Mathematics}\\
+Cavite State University – Laboratory Science High School, Bancod, Indang, Cavite\\
+(2021 to 2023)
+With High Honor (GWA: 97)
+
+\vspace{0.5em}
+
+\textbf{Junior High School}\\
+Langkaan II National High School, Chrv. R5, Langkaan 2, City of Dasmariñas, Cavite\\
+(2020 to 2021)\\
+With Highest Honor (GWA: 98)
+
+\vspace{0.5em}
+
+\textbf{Elementary}\\
+The First Uniting Christian School, Blk 2 Lot 15 Bahamas St. Greenbreeze Subdivision, Langkaan 2 Dasmariñas City, Cavite\\
+(2015 to 2016)\\
+With High Honor (GWA: 96)
+
+%======================
+% EXPERIENCE / LEADERSHIP
+%======================
+
+\section*{Leadership Experience}
+
+%========================
+% CAKEWJOY
+%========================
+\textbf{Project Manager | Full-Stack Project Lead}\\
+Joyful Bakes: Order Management System for Cake with Joy (CakewJoy)\\
+(SE1–SE2 | 2025–2026 | Deployed: https://cakewjoy.vercel.app)\\
+Technologies: React, TypeScript, Firebase (Auth \& Realtime Database), Vercel, Figma, SDLC (Waterfall Methodology)
+
+\begin{itemize}[leftmargin=*]
+\item Led the end-to-end planning, development, testing, deployment, and client delivery of a full-stack web-based order management system for a real bakery business
+\item Managed a cross-functional software engineering team composed of developers, system analysts, QA engineers, and business analysts across all project phases
+\item Oversaw full system lifecycle using Waterfall methodology, ensuring structured delivery from requirements gathering (SRS) to final production deployment
+\item Coordinated system architecture design, feature alignment, and module integration across six user roles (Customer, Admin, Staff, Production, Baker, Sales)
+\item Led client-facing meetings for requirements gathering, progress updates, User Acceptance Testing (UAT), and final system validation with the business owner
+\item Designed and maintained project schedules, milestones, and deliverables using Gantt charts and weekly progress tracking tools
+\item Supervised QA processes including UAT preparation, test execution, validation matrices, and defect tracking, achieving full client approval upon deployment
+\item Ensured successful production deployment using Vercel with Firebase backend integration, resulting in a fully operational live system for business use
+\item Delivered complete project documentation including SPMP (Software Project Management Plan), SRS (Software Requirements Specification), SDD (Software Design Document), and STP (Software Test Plan), validation reports, and maintenance documentation
+\end{itemize}
+
+%========================
+% SARCASTIC MODEL
+%========================
+\textbf{Team Lead / Machine Learning Developer}\\
+Sarcasm Detection in News Headlines using Transformer-Based Models (BERT Variants)\\
+Technologies: Python, PyTorch, HuggingFace Transformers, Scikit-learn, Pandas, Google Colab
+
+\begin{itemize}[leftmargin=*]
+\item Led a machine learning team in developing and benchmarking transformer-based NLP models for sarcasm detection in news headlines
+\item Managed end-to-end ML pipeline including dataset preprocessing, tokenization, model training, and evaluation
+\item Implemented and fine-tuned multiple transformer architectures including BERT, RoBERTa, ALBERT, DistilBERT, and ModernBERT using PyTorch and HuggingFace
+\item Designed experimental framework to compare model performance using accuracy, precision, recall, and F1-score metrics
+\item Coordinated training workflows in Google Colab ensuring reproducibility and consistent evaluation across models
+\item Analyzed performance trade-offs between model complexity and efficiency for binary text classification tasks
+\end{itemize}
+
+%========================
+% UST TECHNOVATION
+%========================
+\textbf{Member – Market Analytics Department, Growth Marketing}\\
+UST Technovation Society | University of Santo Tomas (2025–2026)
+
+\begin{itemize}[leftmargin=*]
+\item Collaborated with the Market Analytics Department to enhance project visibility, user engagement, and monetization strategies.
+\item Developed and implemented growth marketing initiatives to expand the reach of the organization’s projects across various digital platforms.
+\item Contributed to data-driven analyses that guided marketing decisions and optimized audience engagement.
+\item Supported campaigns that strengthened the organization’s brand presence and promoted its innovative technological projects.
+\end{itemize}
+
+%========================
+% AWS CLOUD CLUB
+%========================
+\textbf{Human Resources Staff – AWS Cloud Club UST}\\
+(2025–2026)
+
+\begin{itemize}[leftmargin=*]
+\item Contribute to the Human Resources Department in managing member welfare, engagement, and participation in organizational events and activities.
+\item Support initiatives that foster professional development, collaboration, and moral formation among members.
+\item Assist in organizing workshops, seminars, and hackathons to promote cloud computing skills and AWS certification pathways.
+\item Uphold the organization’s mission to bridge the gap between theoretical learning and practical cloud technology skills.
+\end{itemize}
+
+%========================
+% VERITY
+%========================
+\textbf{Team Lead, Frontend Developer, \& System Analyst}\\
+Verity: Automated Budget Anomaly Detection \& Secure Anonymous Reporting System (CSSprint - Hackathon December 2025)\\
+Top 4 Finalist | Technologies: Next.js • React • Supabase
+
+\begin{itemize}[leftmargin=*]
+\item Led a 4-member cross-functional development team (Alt+F4) in designing and building Verity, a corporate web system for budget monitoring, anomaly detection, and anonymous employee reporting.
+\item Acted as System Analyst and Technical Lead, translating business requirements into system architecture, use cases, and database design (ERD, relational schema).
+\item Designed and documented the system’s full software architecture, including client-server structure, role-based access control, and subsystem workflows (budgeting, anomaly detection, and integrity reporting).
+\item Developed and oversaw key system logic for automated budget anomaly detection, enabling early identification of overspending and financial irregularities.
+\item Designed an anonymous reporting mechanism using tracking codes to decouple user identity from submitted reports, ensuring confidentiality and integrity.
+\item Created UML diagrams (use case, sequence, swimlane) and technical documentation used for project presentation and evaluation.
+\item Coordinated team tasks, ensured deliverables alignment, and maintained project timeline for academic submission and demo deployment.
+\end{itemize}
+
+%========================
+% UNLEASH
+%========================
+\textbf{UNLEASH Philippines Talent}\\
+(September 19–25, 2025)
+
+\begin{itemize}[leftmargin=*]
+\item Represented my region as one of the selected UNLEASH Philippines Talents, joining delegates from all 18 regions nationwide.
+\item Applied the UNLEASH Innovation Methodology under the Health Equity \& Biomedical Innovation track.
+\item Framed real-world problems, ideated creative solutions, and developed rapid prototypes through collaborative teamwork.
+\item Delivered a final innovation pitch to a panel of judges and peers at the end of the program.
+\item Participated in the first stage of LIF Launchpad, a collaboration with the Royal Academy of Engineering, supporting Filipino innovators in turning ideas into impactful solution
+\end{itemize}
+
+%========================
+% BPI DATAWAVE
+%========================
+\textbf{Team Lead, Researcher, Front End Developer \& Project Manager}\\
+BPI Datawave Hackathon 2025 – “Next-Gen Prototyping: Empowering Philippine Banks to Serve MSMEs through AI-Powered Market Simulation with FinSight AI” (Top 6 Finalist)\\
+Technologies: React.js • Python • Node.js • OpenAI API • MongoDB • Vercel\\
+(July–August 2025)
+
+\begin{itemize}[leftmargin=*]
+\item Led a 4-member team in developing FinSight AI, an AI-powered simulation platform that enables banks to prototype and evaluate financial products for MSMEs.
+\item Managed task delegation, sprint execution, and team coordination to ensure on-time delivery during a fast-paced hackathon environment.
+\item Conducted research on MSME financing gaps and AI-driven banking innovation to guide system design and feature development.
+\item Developed the frontend dashboard using React.js and Recharts, enabling interactive visualization of MSME adoption and risk simulation results.
+\item Integrated AI-driven behavioral simulation using OpenAI API to generate synthetic MSME responses across multiple product scenarios.
+\item Built a no-code simulation interface for product and risk teams to test financial products without technical expertise.
+\item Achieved Top 6 Finalist placement among competing teams in the BPI DataWave Hackathon 2025, focusing on AI-driven financial inclusion.
+\end{itemize}
+
+%========================
+% SPLIT IT
+%========================
+\textbf{Backend Developer / Technical Contributor}\\
+Split It – Expense Splitting Mobile App (Flutter \& Dart) (2025–2026)
+
+\begin{itemize}[leftmargin=*]
+\item Developed and maintained backend logic for a Flutter-based expense splitting application in a 3-person development team
+\item Implemented core algorithms for automatic fair-share computation to accurately distribute shared expenses among users
+\item Designed and built data handling logic for group management, multi-payer transactions, and expense history tracking
+\item Supported integration between backend logic and Flutter UI components using ChangeNotifier state management
+\item Collaborated in system design and feature planning to ensure consistent workflow across app modules (login, groups, expenses, history)
+\item Contributed to debugging, optimization, and ensuring accuracy of expense calculation and transaction processing
+\end{itemize}
+
+%========================
+% SHOPZADA
+%========================
+\textbf{Team Lead | Data Architect | ETL Lead | BI Analyst | Documentation Lead | Quality Analyst}\\
+ShopZada: Order-to-Delivery Data Warehouse System (2025–2026)\\
+Technologies: Kimball Dimensional Modeling, SQL, Python (pandas), Data Warehousing, ETL Design, Tableau
+
+\begin{itemize}[leftmargin=*]
+\item Led the end-to-end design of a data warehouse system for e-commerce Order-to-Delivery analytics, integrating data from business, customer, marketing, and operations departments.
+\item Designed conceptual, logical, and physical data models, including ERD and star schema architecture using the Kimball dimensional modeling approach.
+\item Defined fact and dimension tables to support analytics such as order performance, delivery delays, campaign effectiveness, and customer behavior.
+\item Planned ETL workflows using Python, SQL, and pandas, ensuring structured extraction, transformation, and loading across multiple data sources (CSV, JSON, HTML, Excel).
+\item Developed and executed data quality test cases per scenario, validating ETL outputs against expected business rules and detecting inconsistencies in datasets.
+\item Performed data profiling and validation checks to ensure accuracy, completeness, and consistency across integrated datasets.
+\item Designed BI reporting frameworks for Tableau to support sales, logistics, and marketing analytics.
+\item Authored and maintained technical documentation including system design, data dictionaries, and QA test reports to ensure transparency and reproducibility.
+\item Collaborated with the team in selecting the Kimball dimensional modeling approach to optimize analytical performance and scalability.
+\end{itemize}
+
+%========================
+% OTHER ROLES (COMPACTED)
+%========================
+\textbf{Secretary Officer of the Class (3rd Yr 1st \& 2nd Term)} (2025–2026)\\
+University of Santo Tomas
+\begin{itemize}[leftmargin=*]
+\item As Class Secretary, I am responsible for maintaining accurate records and ensuring effective communication within the class. I handle class correspondence and announcements, document and archive important materials, and coordinate directly with teaching staff and professors. I keep track of deadlines, projects, and assignments while sharing pertinent information to keep the class informed and organized.
+\end{itemize}
+
+\textbf{UST ICS Student Council - Executive Staff of Human Resource} (2025–2026)\\
+University of Santo Tomas
+\begin{itemize}[leftmargin=*]
+\item Provide manpower and administrative support to council officers in fulfilling their duties and committee responsibilities.
+\item Assist in managing the well-being, engagement, and performance of student council members.
+\item Oversee and coordinate with special committees to ensure smooth operations and effective collaboration.
+\item Support member development by helping implement initiatives that promote growth, preparedness, and teamwork.
+\item Address HR-related concerns and contribute to fostering a positive, inclusive, and productive environment within the council.
+\end{itemize}
+
+\textbf{Team Lead, UI/UX Designer, \& Researcher}\\
+Create \& Conquer 2025 Hackathon – MyND Task Project (July 5, 2025)
+
+\begin{itemize}[leftmargin=*]
+\item Received Certificate of Participation for contributing to a hackathon project addressing freelance productivity and wellness
+\item Led a 5-person team in developing MyND Task, a gamified and modular productivity dashboard for Filipino freelancers
+\item Designed user flows and interface using Figma, incorporating task-as-quest features, wellness tools, and mood-tracking.
+\item Conducted user research to align app features with the unique needs of Filipino freelancers facing burnout and disorganization.
+\end{itemize}
+
+\textbf{Project Lead \& Full-Stack Developer}\\
+EduGrade – Academic Grading Management System (2024–2025)
+
+\begin{itemize}[leftmargin=*]
+\item Led development of a web-based grading system in a 2-person team, overseeing both front-end and back-end implementation
+\item Built role-based system for students and professors with secure authentication and session management
+\item Designed and implemented Java Servlet architecture for grade computation and data processing
+\item Developed interactive JSP-based dashboards for academic performance tracking
+\item Managed system integration, debugging, and deployment on GlassFish Server
+\end{itemize}
+
+\textbf{UST CSS Academic Committee Staff (2nd Yr 1st Term)} (2024–2025)\\
+University of Santo Tomas
+\begin{itemize}[leftmargin=*]
+\item I am a member of the Academics Team and proactively support fellow students in the field of computer science by organizing academic events such as quiz bees and programming competitions, providing tutorials, and conducting evaluations. I aim to assist students in the enhancement of their computer science knowledge and skills. 
+\end{itemize}
+
+\textbf{Vice President of the Class (2nd Yr 1st Term)} (2024–2025)\\
+University of Santo Tomas
+\begin{itemize}[leftmargin=*]
+\item Actively supports the President, assuming their duties in their absence. Mediates conflicts, fosters class harmony, and collaborates on event planning and organization.
+\end{itemize}
+
+\textbf{UST ICS Student Council - Committee Director of Crisis Management} (2024–2025)\\
+University of Santo Tomas
+\begin{itemize}[leftmargin=*]
+\item Responsible for leading the committee in preparing for and managing crises that impact the student body. Works closely with the university's crisis management team and the Office of the Vice-Rector for Finance to handle emergencies like natural disasters and health issues. Ensures effective communication and support systems to safeguard students' safety and well-being during critical situations. Supports the Executive Board and council members in their duties.
+\end{itemize}
+
+\textbf{UST ICS Student Council - Academic Affairs Staff} (2023–2024)\\
+University of Santo Tomas
+\begin{itemize}[leftmargin=*]
+\item As part of my role in Academic Affairs, I developed initiatives aimed at the overall development of the CICS student body, focusing on their academic growth and support. I worked closely with the primary organizations within CICS to ensure effective academic assistance for the CICS students.
+\end{itemize}
+
+\textbf{Secretary Officer of the Class (1st Yr 2nd Term)} (2023–2024)\\
+University of Santo Tomas
+\begin{itemize}[leftmargin=*]
+\item The Secretary is responsible for maintaining accurate records and facilitating communication within the class.
+\item Class correspondence and announcements. 
+\item Document and archive important class documents and materials. 
+\item Coordinate and communicate with teaching staff/professors.
+\item Takes note of the class's deadlines, projects, and assignments
+\item Shares pertinent information with the class.
+\end{itemize}
+
+\textbf{Public Relations Officer of the Class (1st Yr 1st Term)} (2023–2024)\\
+University of Santo Tomas
+\begin{itemize}[leftmargin=*]
+\item Fostering effective communication and information dissemination among the class, Student Council, COMELEC, and other organizations.
+\item Gathering, organizing, and distributing pertinent updates, announcements, and news from administrators, teachers, and college/university-based groups to the class members.
+\item Ensures the timely and accurate delivery of critical information, including deadlines, guidelines, and opportunities, to enhance class engagement.
+\end{itemize}
+
+\textbf{Speaker of Robotics Club} (2022–2023)\\
+Cavite State University – Laboratory Science High School
+\begin{itemize}[leftmargin=*]
+\item Act as a crucial link connecting the club and its members.
+\item Sharing details about meetings, gatherings, and club-related happenings with all members.
+\item Play a role in making sure members stay informed about significant dates and deadlines.
+\item Collaborate closely with fellow club officers to arrange and oversee various activities, events, and projects. This aims to ensure that all club members share a common understanding and that the execution of plans occurs seamlessly.
+\end{itemize}
+
+\textbf{Sentinel of the Class and Barangay} (2021–2022)\\
+Cavite State University – Laboratory Science High School
+\begin{itemize}[leftmargin=*]
+\item Maintains peace, security, and order.
+\item Responsible for ensuring the safety and well-being of individuals and property within the organization.
+\item Monitor access, respond to emergencies, and enforce rules and regulations to maintain a secure and orderly environment.
+\end{itemize}
+
+\textbf{President of the Class} (2020–2021)\\
+Langkaan II National High School
+\begin{itemize}[leftmargin=*]
+\item Leads class meetings and helps with discussions.
+\item Act as a main link between the class and teachers.
+\item Make sure that everyone knows about class stuff like homework and problems.
+\item Lead and encourage classmates to join class activities and make things better for everyone in the class.
+\end{itemize}
+
+\textbf{Auditor (Supreme Student Government)} (2019–2020)\\
+The First Uniting Christian School
+\begin{itemize}[leftmargin=*]
+\item Oversees finances by monitoring transactions, maintaining records, and managing budgets.
+\item Conduct audits for accuracy, prepare financial reports for transparency, and offer recommendations for improvement if needed.
+\item Ensures responsible and ethical use of the organization's funds.
+\end{itemize}
+
+\textbf{CFC - Youth For Christ - Torch Member} (2019–present)
+\begin{itemize}[leftmargin=*]
+\item aims to empower young people with strong Christian values and faith.
+\end{itemize}
+
+
+%======================
+% CERTIFICATIONS
+%======================
+\section*{Certificates}
+
+\begin{itemize}
+
+\item \textbf{Gemini Certified Student | Google for Education}
+\begin{itemize}
+    \item Issued: 01/06/2026 -- Valid through: 01/06/2029
+    \item Demonstrated proficiency in core competencies and technical knowledge required for the effective application of Google AI tools.
+\end{itemize}
+
+\item \textbf{UNLEASH Philippines Talent -- Certificate of Participation}
+\begin{itemize}
+    \item UNLEASH Philippines Innovation Lab | September 19--25, 2025
+    \item Successfully participated in the UNLEASH Philippines Innovation Lab, joining selected talents from all 18 regions of the Philippines.
+    \item Applied the UNLEASH Innovation Methodology under the Health Equity & Biomedical Innovation track to frame real-world problems, ideate solutions, and develop rapid prototypes.
+    \item Collaborated with a diverse team to design and pitch an innovative solution to judges and peers.
+    \item Completed the first stage of the LIF Launchpad, in collaboration with the Royal Academy of Engineering, aimed at transforming ideas into real-world innovations.
+    \item Officially recognized as part of the UNLEASH Global Community as a UNLEASH Philippines Talent.
+\end{itemize}
+
+\item \textbf{Certificate of Participation -- Module 3: Performance Evaluation & Presentation Coaching}
+\begin{itemize}
+    \item I gained experience in evaluating solution performance and leveraging AI for data-driven improvements.
+    \item I enhanced my executive presentation skills to effectively showcase solutions to judges and stakeholders.
+\end{itemize}
+
+\item \textbf{Certificate of Participation -- Module 2: Solution Blueprint & AI Architecture}
+\begin{itemize}
+    \item I learned how to translate user research insights into clear solution architectures.
+    \item I constructed process maps and system diagrams to visualize solution workflows.
+    \item I planned and oversaw Agile sprints with well-groomed backlogs.
+    \item I leveraged AI tools for rapid prototyping and technical feasibility checks.
+\end{itemize}
+
+\item \textbf{Certificate of Participation -- BPI DATA Wave 2025 Learning Sprint Module 1: Human-Centered Market Research & Ideation}
+\begin{itemize}
+    \item Gained hands-on experience in Human-Centered Design (HCD) and AI-powered tools for user-focused market research and ideation
+    \item Applied empathy mapping, problem framing, and data-driven techniques to identify user needs and generate innovative solution ideas
+\end{itemize}
+
+\item \textbf{Certificate of Participation -- Create \& Conquer 2025 Hackathon}
+\begin{itemize}
+    \item Computer Engineering Organization, FEU Tech Innovation Center | July 5, 2025
+\end{itemize}
+
+\item \textbf{Introduction to Python (June 2025)}
+\begin{itemize}
+    \item a course study offered by DataCamp.
+\end{itemize}
+
+\item \textbf{Responsive Web Design (August 2024)}
+\begin{itemize}
+    \item a course study offered by FreeCodeCamp
+\end{itemize}
+
+\item \textbf{Google Analytics for Beginners (June 2024)}
+\begin{itemize}
+    \item a course study offered by Google Analytics Academy.
+\end{itemize}
+
+\item \textbf{Introduction to Neural Network (June 2024)}
+\begin{itemize}
+    \item a course study offered by the Great Learning Academy.
+\end{itemize}
+
+\item \textbf{Introduction to Artificial Intelligence (June 2024)}
+\begin{itemize}
+    \item a course study offered by the Great Learning Academy.
+\end{itemize}
+
+\item \textbf{Canva for Graphic Design (June 25, 2024)}
+\begin{itemize}
+    \item a course study offered by the Department of Information and Communications Technology.
+\end{itemize}
+
+\item \textbf{Basic Javascript for Web Development (June 25, 2024)}
+\begin{itemize}
+    \item a course study offered by the Department of Information and Communications Technology
+\end{itemize}
+
+\item \textbf{Conduct Award (S.Y. 2018--2019)}
+\begin{itemize}
+    \item Received a Conduct Award for consistently demonstrating DepEd CORE VALUES Maka-Diyos, Makatao, Makakalikasan, at Makabansa for S.Y. 2018-2019, given this 2nd day of April 2019 at TFUCIMI, Langkaan 2, City of Dasmarinas, Cavite.
+\end{itemize}
+
+\item \textbf{3rd Place -- Impromptu Speech (2019 English Month Celebration)}
+\begin{itemize}
+    \item 3rd place for Higher Level in Impromptu Speech during the 2019 English Month Celebration with the theme “Learning English: An Inclusive, Innovative, and Interconnected Experience” on the 29th day of November 2019 at The First Uniting Christian Church.
+\end{itemize}
+
+\item \textbf{Service Team Award -- CFC-YFC Cavite Provincial General Assembly}
+\begin{itemize}
+    \item Received an award for giving our best as a Service Team at CFC-YFC Cavite’s Provincial General Assembly entitled “Relentless” last November 20, 2022, at CVSU-Silang Campus.
+\end{itemize}
+
+\end{itemize}
+
+%======================
+% PROJECTS
+%======================
+\section*{Projects}
+
+\begin{enumerate}
+
+% 1
+\item \textbf{Rescute: Human-Computer Interaction Project (Web \& Mobile Application)} (2024)\\
+\textbf{Links:} \url{https://annecaroljonsoncic.wixsite.com/rescute}
+\begin{itemize}
+    \item Served as the Interactive Designer for "Rescute," a web and mobile application designed to connect stray animals with rescue volunteers and help pet owners locate lost pets.
+    \item Focused on location tracking and detailed animal information to streamline the rescue process and reduce pet homelessness.
+    \item Collaborated with my group on wireframing, and developed web and mobile prototypes using Figma, with designs showcased on Wixsite.
+\end{itemize}
+
+% 2
+\item \textbf{Dijkstra's Algorithm Visualization Project (Scratch)} (2024)\\
+\textbf{Links:} \url{https://scratch.mit.edu/projects/988386764/}
+\begin{itemize}
+    \item Contributed to the development of a Scratch project demonstrating Dijkstra's Algorithm by conceptualizing program flow, scripting, and creating backdrops.
+    \item Provided voiceovers for various sections of the project and actively collaborated with group members to ensure smooth execution and presentation.
+\end{itemize}
+
+% 3
+\item \textbf{Multimedia: A Powerful Weapon—Interactive Game (Scratch)} (2022)\\
+\textbf{Links:} \url{https://scratch.mit.edu/projects/628876398/}
+\begin{itemize}
+    \item Lead the creation of an interactive game focused on the discovery of technology as a powerful modern weapon.
+    \item I developed the project flow, authored the script, and programmed the entire game in Scratch.
+    \item Through immersive gameplay and storytelling, the game emphasizes the impact and influence of technology in today's world.
+\end{itemize}
+
+% 4
+\item \textbf{DANGER\_ALERT: EV3 On-Brick Programming Project} (2021)\\
+\textbf{Links:} \url{https://drive.google.com/drive/folders/1qZXLgs-Lb3Yvc5szeq-AY7i0z6nBVwJ5}
+\begin{itemize}
+    \item Developed and executed a program designed to simulate a danger alert using EV3 On-Brick Programming.
+    \item Programmed the robot to emit a "Blip 3" sound, display a warning sign, turn the EV3 brick buttons red, and rotate counterclockwise using motors in Ports B and C for two seconds, repeating the sequence three times to simulate an alert.
+\end{itemize}
+
+% 5
+\item \textbf{MyND Task – Gamified Productivity App for Filipino Freelancers} (July 2025)\\
+\textbf{Links:} Figma \textbar{} \url{https://www.figma.com/design/R8qTByYcqovv6a7NzwpcvA/MYND?node-id=0-1&t=srh6pzBCGlCClUUs-1}
+\begin{itemize}
+    \item Received Certificate of Participation
+    \item Designed the app interface using Figma, featuring customizable quests and modular dashboards
+    \item Integrated mood tracking and wellness tools to address freelancer burnout and work-life imbalance
+    \item Conducted user research to inform feature design, focusing on the needs of early-career Filipino freelancers
+\end{itemize}
+
+% 6
+\item \textbf{ShopZada Order-to-Delivery Data Warehouse} (2025--2026)\\
+\textbf{Links:} GitHub \textbar{} \url{https://github.com/GoldenSpectrum/dwh_finalproject_3CSD-E_group_5WORKS}
+\textbar{} Tableau Dashboards \textbar{} \url{https://public.tableau.com/app/profile/anne.carol.jonson/viz/TopCampaignsbyNumberofRedemptions/Dashboard2?publish=yes}
+\textbar{} \url{https://public.tableau.com/app/profile/anne.carol.jonson/viz/OrdersDelayedOrdersDashboard/Dashboard?publish=yes}
+\textbar{} \url{https://public.tableau.com/app/profile/anne.carol.jonson/viz/ProductsDashboard_17660809559490/Dashboard4?publish=yes}
+
+\begin{itemize}
+    \item Led the design of ShopZada, an e-commerce data warehouse using Kimball dimensional modeling to support Order-to-Delivery analytics.
+    \item Designed star schema architecture, fact/dimension tables, and ETL pipeline planning using Python, SQL, and pandas.
+    \item Conducted data profiling, validation, and documentation of multi-source datasets for analytics readiness.
+    \item Built BI reporting plans and infrastructure setup including GitHub workflow organization and Docker-based system structuring.
+\end{itemize}
+
+% 7
+\item \textbf{FinSight AI – AI-Powered MSME Market Simulation Platform} (BPI DataWave Hackathon 2025)\\
+\textbf{Links:} \url{https://github.com/kxmndz/finsight-backend}
+\begin{itemize}
+    \item Led a 4-person team in building FinSight AI, an AI-powered MSME market simulation platform for banking product innovation.
+    \item Designed and developed frontend dashboards using React.js and Recharts for financial product simulation and risk visualization.
+    \item Conducted research on MSME financing gaps to guide system design and AI feature development.
+    \item Integrated OpenAI API for synthetic MSME behavioral simulation and product adoption modeling.
+\end{itemize}
+
+% 8
+\item \textbf{Verity: Automated Budget Anomaly Detection \& Secure Anonymous Reporting System} (CSSprint 2025)\\
+\textbf{Links:} \url{https://github.com/zenpa1/verity}
+\begin{itemize}
+    \item Led a 4-member development team in building Verity, a corporate web system for budget monitoring, anomaly detection, and secure anonymous reporting.
+    \item Designed and documented the full system architecture, including client-server structure, role-based access control, and subsystem workflows (HR, Finance, Employee).
+    \item Developed system analysis models including use case diagrams, sequence diagrams, ERD, and data flow design for academic and implementation purposes.
+    \item Implemented core system logic for automated budget anomaly detection, enabling detection of overspending and financial irregularities.
+    \item Built an anonymous reporting system using tracking codes, ensuring reports cannot be traced back to users while maintaining accountability workflows.
+    \item Achieved Top 4 Finalist placement in CSSprint 2025 among competing teams.
+\end{itemize}
+
+% 9
+\item \textbf{EduGrade – Web-Based Grading System} (2024--2025)\\
+\textbf{Links:} GitHub \textbar{} \url{https://github.com/ACJ08/ICS2608_Final-Project}
+\begin{itemize}
+    \item EduGrade is a full-stack academic grading system designed to streamline grade computation and improve transparency between students and professors.
+    \item Built using Java, JSP, Servlets, HTML, CSS, and CSV-based storage, deployed on GlassFish Server.
+    \item Implemented role-based access control, authentication, and dashboards for students and professors.
+    \item Followed MVC-style architecture with robust session management and error handling (403, 404, 500).
+\end{itemize}
+
+% 10
+\item \textbf{Split It – Expense Splitting Mobile App} (2025--2026)\\
+\textbf{Links:} \url{https://github.com/crgmjl/mobprog_group3_finalproj}
+\begin{itemize}
+    \item Developed backend logic for a Flutter-based expense splitting application.
+    \item Implemented fair-share computation algorithm for group expenses.
+    \item Designed group management, multi-payer transactions, and expense history tracking.
+    \item Integrated backend logic with Flutter UI using ChangeNotifier.
+\end{itemize}
+
+% 11
+\item \textbf{Joyful Bakes: Order Management System for Cake with Joy (CakewJoy)} (2025--2026)\\
+\textbf{Links:} GitHub \textbar{} \url{https://github.com/Luis-Jay/Cakewithjoy}
+\textbar{} Live \textbar{} \url{https://cakewjoy.vercel.app}
+\begin{itemize}
+    \item Built a full-stack order management system for a real bakery business.
+    \item Implemented multi-role system for customers, staff, admin, and production teams.
+    \item Deployed system using React, TypeScript, Firebase, and Vercel.
+\end{itemize}
+
+% 12
+\item \textbf{Sarcasm Detection in News Headlines using Transformer-Based Models (BERT Variants)} (2025--2026)\\
+\textbf{Links:} \url{https://github.com/ACJ08/DataSci7_3CSD_ML-Project}
+\begin{itemize}
+    \item Explored transformer-based NLP models for sarcasm detection using Kaggle dataset.
+    \item Compared BERT, RoBERTa, ALBERT, DistilBERT, and ModernBERT.
+    \item Evaluated models using accuracy, precision, recall, and F1-score.
+    \item Led training pipeline, experimentation, and evaluation design for reproducibility.
+\end{itemize}
+
+\end{enumerate}
+
+%======================
+% END
+%======================
+\end{document}
+ALSO TAKE NOTE: 
+Please make the portfolio functional all the buttons and features and what is needed to be functional. You must do it. All.
+
+Note: the links of my project are here so integrate it:
+PROJECTS	LINKS 
+1.	Rescute: Human-Computer Interaction Project (Web & Mobile Application) 
+(2024) 
+•	Served as the Interactive Designer for "Rescute," a web and mobile application designed to connect stray animals with rescue volunteers and help pet owners locate lost pets.
+•	Focused on location tracking and detailed animal information to streamline the rescue process and reduce pet homelessness.
+•	Collaborated with my group on wireframing, and developed web and mobile prototypes using Figma, with designs showcased on Wixsite.	https://annecaroljonsoncic.wixsite.com/rescute
+2. Dijkstra's Algorithm Visualization Project (Scratch) 
+(2024)
+•	Contributed to the development of a Scratch project demonstrating Dijkstra's Algorithm by conceptualizing program flow, scripting, and creating backdrops.
+•	Provided voiceovers for various sections of the project and actively collaborated with group members to ensure smooth execution and presentation.	https://scratch.mit.edu/projects/988386764/
+3. Multimedia: A Powerful Weapon—Interactive Game (Scratch) 
+(2022)
+•	Lead the creation of an interactive game focused on the discovery of technology as a powerful modern weapon.
+•	I developed the project flow, authored the script, and programmed the entire game in Scratch.
+•	Through immersive gameplay and storytelling, the game emphasizes the impact and influence of technology in today's world.	https://scratch.mit.edu/projects/628876398
+4. DANGER_ALERT: EV3 On-Brick Programming Project 
+(2021)
+•	Developed and executed a program designed to simulate a danger alert using EV3 On-Brick Programming.
+•	Programmed the robot to emit a "Blip 3" sound, display a warning sign, turn the EV3 brick buttons red, and rotate counterclockwise using motors in Ports B and C for two seconds, repeating the sequence three times to simulate an alert.	https://drive.google.com/drive/folders/1qZXLgs-Lb3Yvc5szeq-AY7i0z6nBVwJ5?usp=sharing
+
+
+5. MyND Task – Gamified Productivity App for Filipino Freelancers
+Role: Team Lead, UI/UX Designer, Researcher | Create & Conquer 2025 Hackathon
+Computer Engineering Organization – FEU Tech Innovation Center | July 2025
+•	Received Certificate of Participation
+•	Designed the app interface using Figma, featuring customizable quests and modular dashboards
+•	Integrated mood tracking and wellness tools to address freelancer burnout and work-life imbalance
+•	Conducted user research to inform feature design, focusing on the needs of early-career Filipino freelancers	https://www.figma.com/design/R8qTByYcqovv6a7NzwpcvA/MYND?node-id=0-1&t=srh6pzBCGlCClUUs-1
+6.	ShopZada Order-to-Delivery Data Warehouse
+•	Technologies: Kimball Dimensional Modeling, SQL, Python (pandas), Data Warehousing, ETL Design, Tableau
+•	Led the design of ShopZada, an e-commerce data warehouse using Kimball dimensional modeling to support Order-to-Delivery analytics.
+•	Designed star schema architecture, fact/dimension tables, and ETL pipeline planning using Python, SQL, and pandas.
+•	Conducted data profiling, validation, and documentation of multi-source datasets for analytics readiness.
+•	Built BI reporting plans and infrastructure setup including GitHub workflow organization and Docker-based system structuring.	https://github.com/GoldenSpectrum/dwh_finalproject_3CSD-E_group_5WORKS
+https://public.tableau.com/app/profile/anne.carol.jonson/viz/TopCampaignsbyNumberofRedemptions/Dashboard2?publish=yes
+https://public.tableau.com/app/profile/anne.carol.jonson/viz/OrdersDelayedOrdersDashboard/Dashboard?publish=yes 
+https://public.tableau.com/app/profile/anne.carol.jonson/viz/ProductsDashboard_17660809559490/Dashboard4?publish=yes
+7.	“Next-Gen Prototyping: Empowering Philippine Banks to Serve MSMEs through AI-Powered Market Simulation with FinSight AI” 
+•	Technologies: React.js, Python, Node.js, OpenAI API, MongoDB 
+•	Led a 4-person team in building FinSight AI, an AI-powered MSME market simulation platform for banking product innovation (BPI DataWave Hackathon 2025 – Top 6 Finalist).
+•	Designed and developed frontend dashboards using React.js and Recharts for financial product simulation and risk visualization.
+•	Conducted research on MSME financing gaps to guide system design and AI feature development.
+•	Integrated OpenAI API for synthetic MSME behavioral simulation and product adoption modeling.	https://github.com/kxmndz/finsight-backend?fbclid=IwY2xjawSMkHNleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEe5c3UDhvRQKMtmCBVJF8l5btnALs6TAzdBw1cJxf9LTnURlciMs2OyXSLomc_aem_hiFLdMat0DQrguQVUyiWdw
+
+8.	Verity: Automated Budget Anomaly Detection & Secure Anonymous Reporting System
+Team Lead | System Analyst
+•	Technologies: Next.js, React, Supabase , Tailwind CSS, Shadcn UI
+•	Led a 4-member development team in building Verity, a corporate web system for budget monitoring, anomaly detection, and secure anonymous reporting.
+•	Designed and documented the full system architecture, including client-server structure, role-based access control, and subsystem workflows (HR, Finance, Employee).
+•	Developed system analysis models including use case diagrams, sequence diagrams, ERD, and data flow design for academic and implementation purposes.
+•	Implemented core system logic for automated budget anomaly detection, enabling detection of overspending and financial irregularities.
+•	Built an anonymous reporting system using tracking codes, ensuring reports cannot be traced back to users while maintaining accountability workflows.
+•	Achieved Top 4 Finalist placement in CSSprint 2025 among competing teams.	https://github.com/zenpa1/verity?fbclid=IwY2xjawSMoGdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEeKgvcWJqZIePOjg0EtBNKdRs9HJ2oJnqEOLyjytWYKrbMwRfgD6TxKrcatnY_aem_NRg_wi9nkbuyG0QUHGsq6Q
+9.	EduGrade – Web-Based Grading System
+•	Technologies: Java, JSP, Servlets, HTML, CSS, CSV (Data Storage), GlassFish Server
+•	EduGrade is a full-stack academic grading system designed to streamline grade computation and improve transparency between students and professors. The system was developed using Java, JSP, Servlets, HTML, CSS, and a CSV-based storage approach, deployed on GlassFish Server.
+•	The project involved designing and implementing both the front-end interface and back-end business logic, including user authentication and role-based access control for students and professors. Core features include student and professor dashboards that allow secure viewing and management of academic grades.
+•	The system follows an MVC-style architecture, with structured servlet flow and centralized data handling. It also implements robust session management and error handling mechanisms (403, 404, 500) to ensure reliability and secure user experience.	https://github.com/ACJ08/ICS2608_Final-Project
+
+10.	Split It – Expense Splitting Mobile App
+•	Technologies: Flutter, Dart, Google Fonts, Cupertino Icons, Flutter Navigator API, Clipboard Services, ChangeNotifier
+•	Split It is a Flutter and Dart-based mobile application designed to simplify shared expense management for groups. It automates the process of splitting bills fairly, removing the need for manual computation and reducing errors in group payments.
+•	The system supports reusable groups, multi-payer contributions, custom notes, and a transaction history feature. Users can select existing groups or manually input participants when splitting expenses. The backend logic processes inputs and computes each member’s share using a custom fair-splitting algorithm, generating a clear settlement breakdown.
+•	The application is built with a modular architecture, where backend logic is separated from UI components and integrated using ChangeNotifier for state updates. Navigation between screens is handled using Flutter Navigator API, ensuring a smooth user experience across login, groups, history, and expense breakdown modules.
+•	Overall, Split It provides an efficient and structured solution for managing shared expenses in group activities, with a strong focus on accuracy, usability, and automation.	https://github.com/crgmjl/mobprog_group3_finalproj
+11.	Joyful Bakes: Order Management System for Cake with Joy (CakewJoy)
+•	Technologies: React, TypeScript, Firebase (Auth & Realtime Database), Vercel, Figma
+•	CakewJoy is a full-stack web-based order management system designed for a real bakery business to streamline order processing, inventory handling, production tracking, and customer interactions. The system supports multiple user roles and provides a centralized platform for managing end-to-end business operations, from order placement to fulfillment and reporting. Built using React, TypeScript, and Firebase, it was successfully deployed and used in a real business setting.	https://github.com/Luis-Jay/Cakewithjoy
+https://cakewjoy.vercel.app
+12.	Sarcasm Detection in News Headlines using Transformer-Based Models (BERT Variants)
+•	Technologies: Python, PyTorch, HuggingFace Transformers, Scikit-learn, Pandas, Google Colab
+•	This project explores and compares multiple transformer-based NLP models for sarcasm detection in news headlines using the Kaggle News Headlines Dataset for Sarcasm Detection. The study evaluates the performance of five models including BERT, DistilBERT, ALBERT, RoBERTa, and ModernBERT on a binary classification task.
+•	The objective of the project is to analyze how different transformer architectures perform in terms of accuracy, precision, recall, F1-score, and computational efficiency in detecting sarcasm in text.
+•	The pipeline includes dataset preprocessing, tokenization using model-specific tokenizers, fine-tuning of transformer models using PyTorch and HuggingFace Transformers, and systematic evaluation across all models. The results were compared to identify trade-offs between performance and model efficiency.
+•	As team lead, I oversaw model experimentation, training workflow coordination, and evaluation design to ensure consistent and reproducible benchmarking across all transformer variants.	https://github.com/ACJ08/DataSci7_3CSD_ML-Project
+
+
+
+
+
+
+
+
